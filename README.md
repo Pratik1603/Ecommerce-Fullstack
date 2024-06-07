@@ -60,8 +60,8 @@ This Project is given as test for an intern process
 
 1. Clone this repository.
 2. Navigate to the `backend` directory and run `npm install` to install backend dependencies.
-3. Set up MongoDB and configure the connection in `backend/config/db.js`.
-4. Start the backend server by running `npm start`.
+3. Set up MongoDB and configure the connection
+4. Start the backend server by running `nodemon index.js`.
 5. Navigate to the `frontend` directory and run `npm install` to install frontend dependencies.
 6. Start the React development server by running `npm start`.
 7. Access the application in your browser at `http://localhost:3000`.
