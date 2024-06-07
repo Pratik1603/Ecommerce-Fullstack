@@ -66,5 +66,7 @@ This Project is given as test for an intern process
 6. Start the React development server by running `npm start`.
 7. Access the application in your browser at `http://localhost:3000`.
 
+## Images
+https://drive.google.com/drive/folders/1y565Pae1b1TapmBNBPEsF1ygVXDyCj7Y?usp=sharing
 
 
